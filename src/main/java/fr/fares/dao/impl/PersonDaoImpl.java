@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import fr.fares.dao.PersonDao;
 import fr.fares.domain.Person;
 
-@Repository
+@Repository 
 public class PersonDaoImpl implements PersonDao {
 
 	public Collection<Person> getAll() {
