@@ -22,5 +22,4 @@ public class PersonDaoImpl implements PersonDao {
 		p2.setLastName("titi");
 		return Arrays.asList(p1, p2);
 	}
-
 }
