@@ -1,0 +1,7 @@
+<h2>Detail of Persons</h2>
+<p>Id: ${person.id}</p>
+<p>Title: ${person.firstName}</p>
+<p>Title: ${person.lastName}</p>
+
+<input type="button" value="Retour" onClick="javascript:document.location.href='/'" />
+
